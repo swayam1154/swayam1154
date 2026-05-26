@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Asif Taj</h1>
+<h1 align="center">Hey 👋, I'm Swayam Jadhav</h1>
 <h3 align="center">Flutter Developer • Backend Learner • Tech Enthusiast</h3>
 
 <p align="center">
@@ -11,9 +11,8 @@
 
 - 🔭 Currently building awesome apps with **Flutter**
 - 🌱 Exploring **Backend Development**
-- 💬 Ask me about **Flutter, Firebase & Mobile UI**
+- 💬 Ask me about **Flutter & Mobile UI**
 - 📫 Reach me at: **tscsinnn@gmail.com**
-- 🌐 Portfolio: **https://github.com/swayam1154**
 - ⚡ Fun Fact: *Coding at night hits different 🌙*
 
 ---
@@ -41,7 +40,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,github,git,postman,figma,xd,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,vscode&perline=6" />
 </p>
 
 ---
@@ -49,9 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swayam1154&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam1154&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swayam1154&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam1154&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em"/>
 </p>
 
 ---
@@ -69,7 +68,6 @@
 - 🚀 Master Full Stack Development
 - 📱 Build Premium Flutter Apps
 - 🌍 Grow Tech Community
-- 🎥 Create Helpful Tech Content
 
 ---
 
